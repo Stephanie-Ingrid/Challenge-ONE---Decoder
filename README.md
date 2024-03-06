@@ -1,3 +1,6 @@
+
+![banner](https://github.com/Stephanie-Ingrid/Challenge-ONE-Decoder/assets/98422190/157fa734-47eb-4eaf-96f8-6df53e1e097b)
+
 <h1 align="center">Decodificador de Texto</h1>
 
 <div align="center"> 
@@ -28,9 +31,9 @@
 <p>
 <li><strong>Baixe o Projeto:</strong> O projeto estará disponível para download no GitHub, baixe e extraia os arquivos para uma pasta no seu computador.</li>
 
-<li><strong>Estrutura do Projeto:</strong> Verifique a estrutura do projeto. Os arquivos HTML, CSS e JavaScript estarão presentes na pasta src. Haverá pastas adicionais para imagens, fontes ou outros recursos.</li>
+<li><strong>Estrutura do Projeto:</strong> Verifique a estrutura do projeto. Os arquivos HTML, CSS e JavaScript estarão presentes na pasta principal. Haverá pastas adicionais para imagens.</li>
 
-<li><strong>Abra o Arquivo HTML Principal:</strong> Encontre o arquivo HTML na pasta src do projeto. Está nomeado como index.html. Dê um clique duplo para abrir este arquivo em um navegador da web.</li>
+<li><strong>Abra o Arquivo HTML Principal:</strong> Encontre o arquivo HTML. Está nomeado como index.html. Dê um clique duplo para abrir este arquivo em um navegador da web.</li>
 </p>
 
 <div align="center">
