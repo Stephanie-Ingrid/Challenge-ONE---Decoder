@@ -1,0 +1,115 @@
+:root{
+    --cor-1: #E5E5E5;
+    --cor-2: #0A3871;
+}
+
+* {
+    background-color: var(--cor-1);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+}
+
+
+.logoAlura{
+    margin-left: 1.5rem;
+    padding-top: 1.5rem;
+    width: 1.5rem;
+}
+
+main{
+    display: flex;
+    margin-bottom: 3.1rem;
+    margin-left: 5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.text-area{
+    border: none;
+    color: var(--cor-2);
+    margin-top: 5.6rem;
+    text-transform: lowercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+
+::placeholder{ color: var(--cor-2); }
+    .text-area:focus{
+        outline:none;
+    }
+
+.menssagem{
+    background-color: white;
+    background-image: url();
+    background-repeat: no-repeat;
+    position: relative;
+    border: none;
+    border-radius: 1.5rem;
+    color: var(--cor-2);
+    margin-left: 6.1rem;
+    margin-top: 1.2rem;
+    padding-left: 1.2rem;
+    position: fixed;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.menssagem:focus{
+    outline: none;
+}
+
+.botoes{
+    padding-left: 1rem;
+    display: flex;
+    margin-top: 1.1rem;
+}
+
+.btn-encriptar{
+    background-color: var(--cor-2);
+    border: 1px solid #0A3871;
+    border-radius: 1.5rem;
+    color: white;
+    cursor: pointer;
+    height: 4.1rem;
+    width: 20.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.btn-desencriptar{
+    background-color: #D8DFE8;
+    border: 1px solid #0A3871;
+    border-radius: 1.5rem;
+    color: var(--cor-2);
+    cursor: pointer;
+    height: 4.1rem;
+    margin-left: 1.8rem;
+    width: 20.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.alerta{
+    padding-left: 1rem;
+    color: #495057;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+.rodape__copyright{
+    padding-left: 5rem;
+    color: #495057;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
